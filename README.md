@@ -1,0 +1,1 @@
+A simple counter demo, using React Context for global state management.

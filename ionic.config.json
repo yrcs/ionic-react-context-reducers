@@ -1,0 +1,7 @@
+{
+  "name": "ionic-react-context-reducers",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
