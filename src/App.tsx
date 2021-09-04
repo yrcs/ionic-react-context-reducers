@@ -23,9 +23,7 @@ import Person from "./components/Person";
 import { connect } from "./data/connect";
 import { AppContextProvider } from "./data/AppContext";
 
-interface IonicAppProps {}
-
-const IonicApp: React.FC<IonicAppProps> = () => {
+const IonicApp: React.FC = () => {
   return (
     <IonApp>
       <Count />
